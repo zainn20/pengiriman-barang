@@ -1,0 +1,25 @@
+/* Style untuk map */
+#map {
+    height: 400px;
+    border-radius: 10px;
+    border: 2px solid #ddd;
+}
+
+/* Style untuk form */
+input {
+    border-radius: 5px;
+}
+
+/* Style tombol */
+button {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* Style untuk hasil perhitungan */
+#result, #savedData {
+    background-color: #f8f9fa;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
